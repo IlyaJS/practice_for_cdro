@@ -1,0 +1,18 @@
+.cell-table{
+    text-align: center;
+}
+th, td{
+    padding: 10px;
+}
+
+th{
+
+    background: #606060;
+    color: #fff;
+}
+
+td{
+    background: #ddd3d3;
+    
+}
+

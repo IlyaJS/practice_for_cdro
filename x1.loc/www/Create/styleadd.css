@@ -1,0 +1,11 @@
+p,
+input {
+
+    margin: 0px;
+    padding-top: 10px;
+}
+
+select {
+    width: 165px;
+    height: 30px;
+}
